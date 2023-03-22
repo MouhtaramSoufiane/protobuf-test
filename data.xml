@@ -1,0 +1,15 @@
+<root><employee>
+    <id>1</id>
+    <name>soufiane</name>
+    <salary>30000</salary>
+</employee>
+<employee>
+    <id>2</id>
+    <name>hanane</name>
+    <salary>20000</salary>
+</employee>
+<employee>
+    <id>3</id>
+    <name>yassine</name>
+    <salary>11000</salary>
+</employee></root>
